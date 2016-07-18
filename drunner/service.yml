@@ -1,0 +1,19 @@
+# drunner service configuration for minimalexample
+#
+---
+configuration:
+
+volumes:
+
+containers:
+   - drunner/minimalexample
+
+commands:
+
+help: |
+   NAME
+      ${SERVICENAME} - does nothing.
+
+   SYNOPSIS
+      ${SERVICENAME} help  - This help
+      
