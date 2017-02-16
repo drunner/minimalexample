@@ -3,16 +3,8 @@
         "cereal_class_version": 1,
         "value0": [
             {
-                "key": "DSERVICE",
-                "value": "true"
-            },
-            {
-                "key": "DSERVICENAME",
-                "value": "minimalexample"
-            },
-            {
                 "key": "TAG",
-                "value": "drunner/minimalexample:local"
+                "value": ""
             }
         ]
     }
