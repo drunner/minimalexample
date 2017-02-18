@@ -7,6 +7,6 @@ before_install:
    - export PATH=$PATH:$HOME/.drunner/bin/
 
 script:
-   - ddev test
-   - drunner install .
-   - minimalexample help
+   - drunner install . minimal
+   - ddev test minimal
+   - minimal help
