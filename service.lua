@@ -23,6 +23,9 @@ function restore()
 -- restore volumes with dockerrestore(volumename)
 end
 
+function selftest()
+-- exercise any custom functions we'd like
+end
 
 -- past here are functions that can be run from the commandline,
 -- e.g. minimalexample help
